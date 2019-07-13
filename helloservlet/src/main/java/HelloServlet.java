@@ -1,3 +1,4 @@
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -8,8 +9,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Random;
 
-public class HelloServlet extends HttpServlet {
 
+public class HelloServlet extends HttpServlet {
 
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
@@ -34,6 +35,7 @@ public class HelloServlet extends HttpServlet {
         out.print(support_ticket_id);
         out.print(" in your email.");
         out.print("</body></html>");
+
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
@@ -47,5 +49,7 @@ public class HelloServlet extends HttpServlet {
         out.print("<input type='submit' value='Help'/>");
         out.print("</form>");
         out.print("</body></html>");
+
+
     }
 }

@@ -14,10 +14,50 @@
         <url-pattern>/support</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>xservlet</servlet-name>
+        <servlet-class>XServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>xservlet</servlet-name>
+        <url-pattern>/x</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>userservlet</servlet-name>
+        <servlet-class>UserServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>userservlet</servlet-name>
+        <url-pattern>/user</url-pattern>
+    </servlet-mapping>
+
     <context-param>
         <param-name>support-email</param-name>
         <param-value>cstech.mum.edu</param-value>
     </context-param>
+
+    <filter>
+        <filter-name>firstFilter</filter-name>
+        <filter-class>FirstFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>firstFilter</filter-name>
+        <url-pattern>/foo</url-pattern>
+        <url-pattern>/bar/*</url-pattern>
+        <servlet-name>myservlet</servlet-name>
+    </filter-mapping>
+
+    <filter>
+        <filter-name>secondFilter</filter-name>
+        <filter-class>SecondFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>secondFilter</filter-name>
+        <url-pattern>/foo</url-pattern>
+        <url-pattern>/bar/*</url-pattern>
+        <servlet-name>myservlet</servlet-name>
+    </filter-mapping>
 
 </web-app>
 
