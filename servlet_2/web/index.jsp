@@ -7,25 +7,26 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>Servlet_2</title>
-      <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+<head>
+    <title>Login</title>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 
 
-      <!-- your files that you will write -->
-      <script src="resources/js/login.js">
-      </script>
-  </head>
-  <body onload="${cbStatus}">
-  <script></script>
-  <form action="LoginController" method="post">
-      <p>UserName:<input name="userName" value="${rememberedName}"/></p>
-      <p>Password:<input type="password" name="password" /></p>
-      <p><label>
-          <input type="checkbox" name="rememberMe" id="cb"/> Remember Me
+    <!-- your files that you will write -->
+    <script src="resources/js/login.js">
+    </script>
+</head>
+<body onload="${cbStatus}">
+<script></script>
+<form action="LoginController" method="post">
+    <p>UserName:<input name="userName" value="${rememberedName}"/></p>
+    <p>Password:<input type="password" name="password" /></p>
+    <p><label>
+        <input type="checkbox" name="rememberMe" id="cb"/> Remember Me
 
-      </label>
-      <p><input type="submit" /></p>
-  </form>
-  </body>
+    </label>
+    <p><input type="submit" /></p>
+</form>
+
+</body>
 </html>

@@ -7,41 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9774e98-0aba-4ecb-8948-8ed17ca2de20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FirstFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyContextListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SecondFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/XServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tag/MyTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/custom.tld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/tld.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/user.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/view.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/x.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/.idea/artifacts/servlet_2_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/src/main/java/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/src/main/java/Logout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/src/main/java/UserDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/web/myProfile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet_2/web/resources/js/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/helloservlet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/helloservlet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/src/main/webapp/resources/image/Game1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/src/main/webapp/resources/image/Game2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/src/main/webapp/resources/image/Game3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/src/main/webapp/resources/image/Game4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/src/main/webapp/resources/image/games_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OnlineShopping/src/main/webapp/resources/image/games_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet_2/src/main/java/HomePageServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/helloservlet_war_exploded/WEB-INF/classes/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/helloservlet_war_exploded/WEB-INF/classes/HelloServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/helloservlet_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/helloservlet_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/helloservlet_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/helloservlet_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HelloServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet_2/out/artifacts/servlet_2_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet_2/out/artifacts/servlet_2_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet_2/out/artifacts/servlet_2_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet_2/out/artifacts/servlet_2_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet_2/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet_2/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet_2/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet_2/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,8 +45,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="255">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/tld.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -74,11 +69,59 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/user.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/view.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/x.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FirstFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,17 +180,17 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="445" />
-    <option name="y" value="105" />
-    <option name="width" value="1325" />
-    <option name="height" value="935" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,20 +219,6 @@
             <path>
               <item name="helloservlet" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloservlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tag" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloservlet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloservlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloservlet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloservlet" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -200,13 +229,20 @@
             </path>
             <path>
               <item name="helloservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloservlet" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloservlet" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -494,24 +530,27 @@
       <workItem from="1562961480708" duration="480000" />
       <workItem from="1562961987690" duration="927000" />
       <workItem from="1562976248862" duration="664000" />
+      <workItem from="1563148825866" duration="1039000" />
+      <workItem from="1563322767022" duration="84000" />
+      <workItem from="1563322999040" duration="677000" />
+      <workItem from="1563327741648" duration="30000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41439000" />
+    <option name="totallyTimeSpent" value="43269000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.81276596" visible="true" weight="0.22013423" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.808026" visible="true" weight="0.18496802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.18723404" side_tool="true" visible="true" weight="0.22013423" />
+      <window_info id="Web" order="7" sideWeight="0.19197397" side_tool="true" visible="true" weight="0.18496802" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3744681" />
@@ -566,16 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SecondFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
@@ -590,20 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/view.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/x.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -638,28 +653,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tld.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MyTag.java" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tag/MyTag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -672,8 +666,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/tld.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -686,8 +687,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/user.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/x.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
