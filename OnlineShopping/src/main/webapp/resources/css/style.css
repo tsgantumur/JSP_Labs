@@ -524,3 +524,58 @@ body {
     font-weight: 700;
 }
 
+#checkout {
+    background-color: #ffffff;
+    margin-left: 400px;
+}
+
+#checkout .container {
+    width: 40%;
+    margin-left: 10px;
+    padding: 20px;
+}
+
+#checkout .amount {
+    float: right;
+    margin-top: 10px;
+    text-align: end;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    font-size: 15px;
+    color: #111;
+    font-weight: 700;
+}
+
+#checkout .amount span {
+    color: #b12704;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+#checkout input[type="submit"] {
+    width: 100px;
+}
+
+#checkout .cart-list {
+    margin-top: 20px;
+}
+
+#checkout .cart-list li {
+    list-style-type: none;
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#checkout .group-card {
+    border: 1px solid #ddd;
+}
+
+#checkout input[type="submit"] {
+    margin-top: 20px;
+}
+
+.btn-danger {
+    background-color: #6c6b6b;
+    border-color: #6c6b6b;
+
+}
